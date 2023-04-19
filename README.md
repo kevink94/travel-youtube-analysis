@@ -2,7 +2,7 @@
 
 <center>
 
-![YouTube logo]([_support%20files/YT%20logo.png](https://logos-world.net/imageup/YouTube/YouTube-Logo-PNG2.png))
+![YouTube logo](https://logos-world.net/imageup/YouTube/YouTube-Logo-PNG2.png)
 
 </center>
 
